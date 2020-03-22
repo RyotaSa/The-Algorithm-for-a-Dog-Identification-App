@@ -102,11 +102,8 @@ jupyter notebook dog_app.ipynb
 
 __NOTE:__ While some code has already been implemented to get you started, you will need to implement additional functionality to successfully answer all of the questions included in the notebook. __Unless requested, do not modify code that has already been included.__
 
-## Project Submission
+## Results  
 
-When you are ready to submit your project, collect the following files and compress them into a single archive for upload:
-- The `dog_app.ipynb` file with fully functional code, all code cells executed and displaying output, and all questions answered.
-- An HTML or PDF export of the project notebook with the name `report.html` or `report.pdf`.
-- Any additional images used for the project that were not supplied to you for the project. __Please do not include the project data sets in the `dogImages/` or `lfw/` folders.  Likewise, please do not include the `bottleneck_features/` folder.__
-
-Alternatively, your submission could consist of the GitHub link to your repository.
+![1](https://user-images.githubusercontent.com/26545820/77251482-ea965580-6c91-11ea-8620-aa3641162099.png)  
+![2](https://user-images.githubusercontent.com/26545820/77251512-0ef23200-6c92-11ea-991e-3e8d1729f7db.png)  
+![3](https://user-images.githubusercontent.com/26545820/77251525-22050200-6c92-11ea-8a04-4c00050f933c.png)  
